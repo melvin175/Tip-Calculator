@@ -1,8 +1,8 @@
 
 
 body {
-  font-family: sans-serif;
-  background: #809dfc;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f7f8fa;
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #68aaf0, #ec8e13);
   /* Chrome 10-25, Safari 5.1-6 */
@@ -28,8 +28,8 @@ body {
 }
 
 h1 {
-  background: #73a0e4;
-  color: rgb(1, 0, 0);
+  background: #b786df;
+  color: rgb(5, 2, 2);
   margin: 0;
   padding: 10px 100px;
   text-transform: uppercase;
